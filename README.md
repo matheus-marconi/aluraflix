@@ -46,24 +46,20 @@ npm (geralmente instalado junto com o Node.js).
 
 Siga os passos abaixo para rodar o projeto localmente:
 
-Clone o repositório:
+**Clone o repositório**:
     ```bash
 git clone https://github.com/matheus-marconi/aluraflix.git
     ```
-Navegue até o diretório do projeto:
-    ```bash
-cd aluraflix
-    ```
-Instale as dependências:
+**Instale as dependências**:
     ```bash
 npm install
     ```
-Inicie o JSON Server:
+**Inicie o JSON Server**:
 O JSON Server será executado na porta 3001.
     ```bash
 npx json-server --watch db.json --port 3001
     ```
-Inicie a aplicação:
+**Inicie a aplicação**:
 Abra outro terminal e rode o servidor de desenvolvimento do React.
     ```bash
 npm run dev
