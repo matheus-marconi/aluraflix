@@ -1,4 +1,4 @@
-🎬 Aluraflix
+🎬 ALURAFLIX
 
 Bem-vindo ao Aluraflix! 🌟 Uma aplicação incrível para gerenciar sua lista de filmes, séries e vídeos favoritos, inspirada nos princípios de organização e aprendizado da Alura.
 
