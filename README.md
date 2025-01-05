@@ -47,24 +47,24 @@ npm (geralmente instalado junto com o Node.js).
 Siga os passos abaixo para rodar o projeto localmente:
 
 1. **Clone o repositório**:
-    ```bash
+    
 git clone https://github.com/matheus-marconi/aluraflix.git
-    ```
+    
     
 2. **Instale as dependências**:
-    ```bash
+    
 npm install
-    ```
+    
     
 3. **Inicie o JSON Server**:
-    ```bash
+   
 npx json-server --watch db.json --port 3001
-    ```
+
     
 4. **Inicie a aplicação**:
-    ```bash
+
 npm run dev
-    ```
+
     
 Acesse o projeto:
 Abra o navegador e acesse http://localhost:5173.
