@@ -61,8 +61,7 @@ npm install
 npx json-server --watch db.json --port 3001
 ```
     
-4. **Inicie a aplicação**
-   Abra um novo terminal e rode:
+4. **Inicie a aplicação** abra um novo terminal e rode:
 ```
 npm run dev
 ```
