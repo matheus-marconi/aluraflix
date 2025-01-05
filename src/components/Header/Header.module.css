@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #262626;
+    padding: 2rem 4rem;
+    height: 8rem;
+    border: 3px solid transparent;
+    border-image: linear-gradient(90deg, #2271D1) 1;
+    box-shadow: 0 12px 15px #2271D1;
+    position: relative;
+    z-index: 1;
+}
+
+.menu {
+    display: none;
+    font-size: 2rem;
+    color: white;
+    cursor: pointer;
+}
+
+.button_container {
+    display: flex;
+    gap: 1.6rem;
+}
+
+@media (max-width: 843px) {
+
+    .header {
+        padding: 2rem 2rem;
+    }
+
+    .button_container {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+    }
+
+}

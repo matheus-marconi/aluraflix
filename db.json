@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "titulo": "O que faz uma desenvolvedora front-end?",
+      "categoria": "FRONT END",
+      "imagen": "https://i3.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+      "enlaceVideo": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&ab_channel=Alura",
+      "descripcion": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal?",
+      "id": "1"
+    },
+    {
+      "titulo": "O que faz uma desenvolvedora Back-end?",
+      "categoria": "BACK END",
+      "imagen": "http://i3.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg",
+      "enlaceVideo": "https://www.youtube.com/watch?v=fiPfvylj6rk&ab_channel=Alura",
+      "descripcion": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? ",
+      "id": "2"
+    },
+    {
+      "titulo": "Desenvolvimento Android.",
+      "categoria": "MOBILE",
+      "imagen": "https://i3.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+      "enlaceVideo": "https://www.youtube.com/watch?v=fWscDFHKgw8&ab_channel=Alura",
+      "descripcion": "Primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!  ",
+      "id": "3"
+    }
+  ]
+}

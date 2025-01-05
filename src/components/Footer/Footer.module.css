@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 4rem 2rem 4rem;
+    height: 6rem;
+    background-color: #262626;
+    border: 3px solid transparent;
+    border-image: linear-gradient;
+    box-shadow: 0 -12px 15px #2271D1;
+    position: relative;
+}

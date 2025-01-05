@@ -1,0 +1,64 @@
+.card_container {
+    min-width: 432px;
+    max-width: 432px;
+    height: 310px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 17px 8px #6BD1FF;
+    transition: all 0.2s ease-in-out;
+}
+
+.card_container:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.9);
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+}
+
+.card_container img {
+    width: 100%;
+    height: 16.25rem;
+    display: block;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.card_container footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 3.5rem;
+    font-family: Roboto;
+    font-weight: 800;
+    font-size: 16px;
+    border-width: 0px 5px 5px 5px;
+    border-style: solid;
+    border-color: #6BD1FF;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0px -4px 5px 3px #6BD1FF inset;
+    will-change: transform;
+}
+
+.card_container footer .icon {
+    font-size: 1.5rem;
+}
+
+.iconContainer p {
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 800;
+}
+
+.iconContainer button {
+    background: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    width: 8rem;
+    color: white;
+    cursor: pointer;
+}
+
+.deleteIcon {
+    font-size: 1.7rem !important;
+    margin-right: -0.1rem;
+}
