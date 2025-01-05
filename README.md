@@ -55,12 +55,10 @@ git clone https://github.com/matheus-marconi/aluraflix.git
 npm install
     ```
 **Inicie o JSON Server**:
-O JSON Server será executado na porta 3001.
     ```bash
 npx json-server --watch db.json --port 3001
     ```
 **Inicie a aplicação**:
-Abra outro terminal e rode o servidor de desenvolvimento do React.
     ```bash
 npm run dev
     ```
