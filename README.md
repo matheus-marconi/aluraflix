@@ -1,6 +1,6 @@
 🎬 ALURAFLIX
 
-Bem-vindo ao Aluraflix! 🌟 Uma aplicação incrível para gerenciar sua lista de filmes, séries e vídeos favoritos, inspirada nos princípios de organização e aprendizado da Alura.
+Bem-vindo ao Aluraflix! 🌟 Uma aplicação incrível para gerenciar sua lista vídeos favoritos, inspirada nos princípios de organização e aprendizado da Alura.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@ O projeto foi construído com a poderosa biblioteca React, juntamente com HTML, 
 
 ✨ Funcionalidades:
 
-🔍 Listagem de filmes, séries e vídeos: Veja todos os seus conteúdos organizados.
+🔍 Listagem vídeos: Veja todos os seus conteúdos organizados.
 
-➕ Adição de novos títulos: Insira seus favoritos de maneira simples.
+➕ Adição de novos títulos: Insira seus videos favoritos de maneira simples.
 
 ✏️ Edição: Atualize informações como nome, descrição ou categoria.
 
